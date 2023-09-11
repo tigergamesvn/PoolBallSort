@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1015842261572",
+    "firebase_url": "https://ball-sort-tiger-games-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ball-sort-tiger-games",
+    "storage_bucket": "ball-sort-tiger-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015842261572:android:80538bd3461dc4ca490a11",
+        "android_client_info": {
+          "package_name": "com.ball.sort.puzzle.tiger.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015842261572-eskcl3rvm7mlv2da7l9ombg2lj1ch3vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqytsU889n7taSo-VtWppGppEocDjcTAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015842261572-eskcl3rvm7mlv2da7l9ombg2lj1ch3vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015842261572-dmn9d9df5afujos1c0ttdj0enilprm2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ball.sort.puzzle.tiger.games",
+                "app_store_id": "1644651248"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2805822891771535~3985381117"
+    }
+  ],
+  "configuration_version": "1"
+}
