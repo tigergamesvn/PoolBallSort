@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=600 height=1067></canvas>
+      <canvas id="unity-canvas" width=580 height=1067></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -58,9 +58,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/BallSort.loader.js";
       var config = {
-        dataUrl: buildUrl + "/BallSort.data.gz",
-        frameworkUrl: buildUrl + "/BallSort.framework.js.gz",
-        codeUrl: buildUrl + "/BallSort.wasm.gz",
+        dataUrl: buildUrl + "/BallSort.data",
+        frameworkUrl: buildUrl + "/BallSort.framework.js",
+        codeUrl: buildUrl + "/BallSort.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Tiger Games JSC",
         productName: "Pool Ball Sort - Colors Puzzle",
@@ -93,7 +93,7 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "600px";
+        canvas.style.width = "580px";
         canvas.style.height = "1067px";
       }
 
